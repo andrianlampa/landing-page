@@ -26,7 +26,7 @@ li, a {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding: 15px 15%;
+    padding: 15px 24%;
 }
 
 li, .hero .description {
@@ -36,7 +36,7 @@ li, .hero .description {
 
 .nav {
     display: flex;
-    gap: 20px;
+    gap: 30px;
 }
 
 .left {
@@ -49,7 +49,7 @@ li, .hero .description {
 .hero {
     display: flex;
     align-items: center;
-    padding: 120px 15%;
+    padding: 120px 24%;
     justify-content: space-between;
     gap: 50px;
 }
@@ -88,24 +88,24 @@ button {
     justify-content: center;
     align-items: center;
     background-color: #737a85;
-    width: 500px;
+    width: 480px;
     height: 225px;
 }
 
 .section-two {
-    padding: 0 15%;
+    padding: 0 24%;
     display: flex;
     flex-direction: column;
     align-items: center;
 }
 
 .info {
-    margin: 40px 0;
+    margin: 50px 0;
 }
 
 .square {
-    height: 160px;
-    width: 160px;
+    height: 150px;
+    width: 150px;
     border: solid 4px #3882f6;
     border-radius: 10px;
 }
@@ -136,7 +136,7 @@ button {
     display: flex;
     background-color: #e5e7eb;
     flex-direction: column;
-    padding: 9% 22%;
+    padding: 9% 28.5%;
 }
 
 .quote {
@@ -157,9 +157,9 @@ button {
 
 .section-four {
     justify-content: space-between;
-    margin: 6% 15%;
+    margin: 6% 24%;
     background-color: #3882f6;
-    padding: 3% 8%;
+    padding: 2% 5%;
     border-radius: 10px;
 }
 
@@ -185,5 +185,5 @@ button {
     display: flex;
     justify-content: center;
     align-self: center;
-    padding: 2%;
+    padding: 1.5%;
 }
